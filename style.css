@@ -1,0 +1,60 @@
+body{
+    background: #f1f1f1;
+    padding: 1cm;
+}
+h1{
+    font-size: 40px;
+    color: blue;
+    text-decoration: underline;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+h2{
+    font-size: 50px;
+    color: rgb(9, 9, 111);
+    text-decoration: underline;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+p.one{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-left: 1cm;
+
+
+}
+p.two{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    padding-left: 1cm;
+    
+
+}
+p.three{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 1cm;
+    
+
+}
+p.inner{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-left: 1cm;
+    font-weight: bold;}
+    
+#line{
+    padding-left:  27cm;
+}
+    
+#poetr{
+    font-size: 30px;
+    text-align: right;
+    color: rgb(158, 91, 10);
+    padding-right: 1cm;
+
+}
